@@ -9,7 +9,7 @@ public class _120819 {
      }
 
     public static void main(String[] args) {
-        System.out.println(new _120819().solution(new int[]{15000})); // 무슨 값을 넣어야 하나....
+      //  System.out.println(new _120819().solution(new int[]{15000})); // 무슨 값을 넣어야 하나....
     }
 }
 
